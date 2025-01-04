@@ -1,19 +1,7 @@
+This is the new QUARCC ( quantitative research and competitions club) website
 
-      ## Installation
+with an AI tool that every Concordia student should use to navigate school information. Lookup any class, prof, building and youll get actionable information.
 
-      To install the application, run:
-      ```sh
-      npm install
-      ```
+http://174.89.183.183:3000
 
-      ## Running the Application
-
-      To start the application, run:
-      ```sh
-      npm start
-      ```
-
-      ## Additional Notes
-
-      The application is currently mounting to the body of the HTML to maintain consistency with the original page. A better approach would be to instead mount the application to a `<div>` within the body.
       
